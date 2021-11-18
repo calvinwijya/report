@@ -1,0 +1,11 @@
+Amt,Descr,Date,ID,Remarks
+24,A,2021-06-30,zoUr,ID `zoUr`,is equal in source.csv & proxy.csv
+11,B,2021-06-30,zoXq,ID `zoXq`,is equal in source.csv & proxy.csv
+69,C,2021-07-01,zoap,ID `zoap`,is equal in source.csv & proxy.csv
+30,D,2021-07-03,zodo,ID `zodo`,is not available in source.csv
+86,E,2021-07-04,zogn,ID `zogn`,is equal in source.csv & proxy.csv
+77,F,2021-07-07,zojm,ID `zojm`,has a difference in amount
+65,G,2021-07-31,zoml,ID `zoml`,has a difference in amount
+66,H,2021-07-06,zopk,ID `zopk`,is equal in source.csv & proxy.csv
+56,I,2021-08-01,zosj,ID `zosj`, is equal in source.csv & proxy.csv
+73,J,2021-07-10,zovi,ID `zovi`, is equal in source.csv & proxy.csv
